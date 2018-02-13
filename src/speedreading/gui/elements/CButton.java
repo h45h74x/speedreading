@@ -1,4 +1,4 @@
-package gui.elements;
+package speedreading.gui.elements;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
